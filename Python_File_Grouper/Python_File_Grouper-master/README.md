@@ -16,7 +16,7 @@
 ## Installation
 ### 👉 Clone this repository.
 ```bash
-git clone git@github.com:Alpha-1729/Python_File_Grouper.git
+git clone git@github.com:vishnutejchadalavada/Python-File-Grouper.git
 
 cd Python_File_Grouper
 ```
@@ -44,7 +44,3 @@ Click on the bat file in the root folder.
 ### 👉 Select the output folder.
 - A dialog box will pop up to select the `Output Folder`.
 - **Caution:** Go inside the folder and select the folder.
-### 👉 See the final result.
-- Result will look like this.
-- [Main Folder](https://raw.githubusercontent.com/Alpha-1729/Python_File_Grouper/master/src/output_1.png)
-- [Sub Folder](https://raw.githubusercontent.com/Alpha-1729/Python_File_Grouper/master/src/output_2.png)
