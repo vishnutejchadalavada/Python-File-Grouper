@@ -1,5 +1,5 @@
 # Python File Grouper
-## ♻ Group files in a folder based on file extension.
+## Group files in a folder based on file extension.
 ---
 
 ## Important
