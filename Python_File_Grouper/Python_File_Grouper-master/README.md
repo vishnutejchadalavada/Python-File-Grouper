@@ -1,8 +1,8 @@
-# 🔰 Python File Grouper
+# Python File Grouper
 ## ♻ Group files in a folder based on file extension.
 ---
 
-## 🔰 Important
+## Important
 ### 👉 Read This Properly
 - Create a copy of the folder that you want to group.
 - Then run this script.
@@ -13,7 +13,7 @@
 
 ---
 
-## 🔰 Installation
+## Installation
 ### 👉 Clone this repository.
 ```bash
 git clone git@github.com:Alpha-1729/Python_File_Grouper.git
@@ -23,7 +23,7 @@ cd Python_File_Grouper
 
 ---
 
-## 🔰 Executing the script.
+## Executing the script.
 ### 👉 Linux
 ```
 python3 main.py
@@ -37,7 +37,7 @@ Click on the bat file in the root folder.
 
 ---
 
-## 🔰 Follow these steps:
+## Follow these steps:
 ### 👉 Select the input folder.
 - After executing the script, a dialog box will pop up to select the `Input Folder`.
 - **Caution:** Go inside the folder and select the folder.
